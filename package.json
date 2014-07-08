@@ -12,6 +12,6 @@
   ],
   "dependencies": {
     "moment": "^2.7.0",
-    "newbase60": "^1.1.1"
+    "newbase60": "^1.1.2"
   }
 }
