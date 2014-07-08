@@ -1,7 +1,7 @@
 {
   "name": "whistler",
   "description": "Algorithmically reversible, database-less URL Shortener for Node.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "https://github.com/mko/NewBase60",
   "bugs": "https://github.com/mko/NewBase60/issues",
   "keywords": [
