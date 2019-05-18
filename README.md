@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/Whistler.svg)](https://greenkeeper.io/)
+
 Whistler is an algorithmically reversible, database-agnostic URL Shortener for Node.js by [Michael Owens][].
 
 Whistler is an implementation of Tantek Çelik's [Whistle][] URL shortener design pattern.
